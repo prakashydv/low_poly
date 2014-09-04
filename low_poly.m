@@ -2,7 +2,7 @@
 % madary 2014-06-05
 % select three points to colour the mean color between the three points.
 
-im=imread('/home/tonbo/Pictures/image.png');
+im=imread('/home/madary/Pictures/image.png');
 figure
 imshow(im),hold on
 while 1
